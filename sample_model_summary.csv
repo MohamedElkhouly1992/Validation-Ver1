@@ -1,0 +1,4 @@
+case_id,strategy,severity,Total Energy MWh,Cooling Energy MWh,Fan Energy MWh,Pump Energy MWh,Auxiliary Energy MWh,Total CO2 tonne,Mean Comfort Deviation C,Mean Degradation Index,Mean COP
+DOE_clean_baseline,Baseline,None,1273.0,980.0,287.4,5.9,0.0,682.3,0.42,0.0,4.1
+S0_moderate,S0,Moderate,1650.0,1260.0,330.0,7.2,52.8,884.4,0.52,0.82,3.1
+S3_moderate,S3,Moderate,1475.0,1130.0,288.0,6.0,51.0,790.6,0.05,0.39,3.7

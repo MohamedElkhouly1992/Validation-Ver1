@@ -1,0 +1,4 @@
+fault_mechanism,metric,published_penalty_pct,tolerance_pct,notes
+Chiller fouling,Cooling Energy MWh,10.24,10,Example value from maintenance/fault literature; replace with your selected source value
+Dirty filter / fan pressure,Fan Energy MWh,15.0,15,Replace with selected paper/dataset penalty
+Pump hydraulic penalty,Pump Energy MWh,4.14,10,Replace with selected paper/dataset penalty

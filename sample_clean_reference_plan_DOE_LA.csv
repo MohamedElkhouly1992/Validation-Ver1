@@ -1,0 +1,5 @@
+kpi,reference_value,reference_unit,model_column,model_value_mode,tolerance_pct,notes
+Cooling EUI,50.00,kWh/m2.year,Cooling Energy MWh,total_mwh_to_annual_eui,15,DOE Secondary School LA 3B-CA cooling electricity
+Fan EUI,14.67,kWh/m2.year,Fan Energy MWh,total_mwh_to_annual_eui,15,DOE Secondary School LA 3B-CA fan electricity
+Pump EUI,0.30,kWh/m2.year,Pump Energy MWh,total_mwh_to_annual_eui,15,DOE Secondary School LA 3B-CA pump electricity
+HVAC Electric EUI,64.98,kWh/m2.year,Total Energy MWh,total_mwh_to_annual_eui,15,Cooling plus fan plus pump boundary if model total is HVAC electric

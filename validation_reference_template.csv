@@ -1,0 +1,2 @@
+kpi,reference_value,reference_unit,model_column,model_value_mode,tolerance_pct,notes
+INSERT_KPI,INSERT_VALUE,INSERT_UNIT,INSERT_MODEL_COLUMN,direct,15,Insert published source and notes
